@@ -1,5 +1,5 @@
 # Fishing_game
-A simple fishing game for android.**(means only for android)**.
+A simple fishing game for android **(means only for android)**.
 
 ## Installation
 1. Clone/download the repository.
